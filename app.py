@@ -1,8 +1,8 @@
 import streamlit as st
 import numpy as np  # 👈 necesario para la matriz
 
-st.title("🌡️ Hola desde Streamlit")
-st.write("Esta es tu primera aplicación funcionando en la nube 🎉")
+st.title("Dashboard Interactivo")
+st.write("A continuacion veremos una aplicacion que nos simula la construccion de una matriz")
 
 # ----------------------------
 # Demostración simple (tu parte)
